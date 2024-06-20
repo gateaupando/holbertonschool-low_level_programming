@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - script used to print a messagewithout use printf
+ * Main - script used to print a messagewithout use printf
  * description : description proramme
  * return 0 = success
  */
