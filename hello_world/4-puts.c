@@ -1,5 +1,5 @@
 #include <stdio.h>
-/**
+/*
  * main - script used to print a messagewithout use printf
  *
  * return 0 = success
