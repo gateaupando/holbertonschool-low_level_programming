@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - script used to print a messagewithout use printf
- * description : description proramme
- * return 0 = success
+ * main - script used to print a messagewithout use printf
+ * Description : description proramme
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
