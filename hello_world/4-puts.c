@@ -1,2 +1,2 @@
 #!/bin/bash
-puts ("Programming is like building a multilingual puzzel")
+puts ("\"Programming is like building a multilingual puzzle.")
